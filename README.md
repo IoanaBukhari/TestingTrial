@@ -6,7 +6,7 @@
 
 Scenario: 1-Check that the reward history (obtained and claimed) works properly.
 
-#Given the user is in the Freebies Vault Section
+## Given the user is in the Freebies Vault Section
 #And he claims a reward (token)
 #Then the "Your history" section will be displayed
 #And the token displays 1 characteristic thumbnail
