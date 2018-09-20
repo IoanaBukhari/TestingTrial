@@ -6,11 +6,11 @@
 
 Scenario: 1-Check that the reward history (obtained and claimed) works properly.
 
-Given the user is in the Freebies Vault Section
-And he claims a reward (token)
-Then the "Your history" section will be displayed
-And the token displays 1 characteristic thumbnail
-And hovering the mouse cursor over a token displays its name
+#Given the user is in the Freebies Vault Section
+#And he claims a reward (token)
+#Then the "Your history" section will be displayed
+#And the token displays 1 characteristic thumbnail
+#And hovering the mouse cursor over a token displays its name
 
 Scenario 2:-Check that only the last 8 tokens with thumbnails can be seen
 
