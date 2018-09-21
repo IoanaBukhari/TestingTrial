@@ -40,3 +40,12 @@
 3. How many tokens can a user claim?
 4. If a user claimed more than 8 tokens then how will he see the rest of claimed tokens?
 5. How many times can a user claim same unique token?
+
+
+## Trial 2: Test Automation
+
+*Note: I have created only 2 files for the automated tests (conf.js and palindromeSpecs.js) as this was my first experience with JavaScript and Protractor but I did my best to complete the task by all means. *
+
+###### I have found one issue while running the tests with Protractor (protractor conf.js  --- Command Prompt):  
+
+1 failure caused by the 'Racecar' string having an upper case 'R'. Once I changed the test with a lower case 'r' then the tests passed.
