@@ -48,4 +48,4 @@ Note: I have created only 2 files for the automated tests (conf.js and palindrom
 
 #### I have found one issue while running the tests with Protractor (protractor conf.js  --- Command Prompt):  
 
-A failure caused by the 'Racecar' string having an upper case 'R'. Once I changed the test with a lower case 'r' then the tests passed.
+A failure caused by the 'Racecar' string having an upper case 'R', it seems that the palindrome field doesn't recognise words with 2 different types of letters (upper and lower cases) as being palindromes. Once I changed this word in palindromeSpecs with a lower case 'r' then the tests passed and then I changed the word with all upper cases and once again it passed.
