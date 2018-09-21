@@ -44,7 +44,7 @@
 
 ## Trial 2: Test Automation
 
-Note: I have created only 2 files for the automated tests (conf.js and palindromeSpecs.js) as this was my first experience with JavaScript and Protractor but I did my best to complete the task by all means.
+Note: I have created only 2 files for the automated tests (conf.js and palindromeSpecs.js) as this was my first experience with JavaScript and Protractor but I did my best to complete the task.
 
 #### I have found one issue while running the tests with Protractor (protractor conf.js  --- Command Prompt):  
 
